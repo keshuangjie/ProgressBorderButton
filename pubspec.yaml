@@ -2,6 +2,7 @@ name: progress_border_button
 description: flutter progress border button package
 version: 0.0.1
 homepage: https://github.com/keshuangjie/progress_border_button
+publish_to: https://pub.dev
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
